@@ -25,7 +25,7 @@ Steps :
 
 # Dendograms - Optimal Solution
         
-          ---> By crossing the largest distance vertical line in dendogarm we will get the optimal number of clusters.
+       ---> By crossing the largest distance vertical line in dendogarm we will get the optimal number of clusters.
 
 
       
