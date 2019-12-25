@@ -1,6 +1,7 @@
 # Hierarchical-Clustering
 
 Two types 
+         
          1. Agglomerative
          
          2. Divisive
