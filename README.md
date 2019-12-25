@@ -2,6 +2,7 @@
 
 Two types 
          1. Agglomerative
+         
          2. Divisive
          
 We use Agglomerative Hierarchical Clustering Technique(i.e Bottom Up Approach)  
@@ -19,7 +20,7 @@ Steps :
       ---> Finally, all the clusters are merged together and form a single cluster.
       
       
-* The Hierarchical clustering Technique can be visualized using a Dendrogram. * 
+* The Hierarchical clustering Technique can be visualized using a Dendrogram.  
 
 # Dendograms - Optimal Solution
         
