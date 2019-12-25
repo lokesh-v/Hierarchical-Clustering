@@ -27,6 +27,12 @@ Steps :
         
        ---> By crossing the largest distance vertical line in dendogarm we will get the optimal number of clusters.
 
+lokesh
 
+
+      1 
       
+      2
+      
+      3
          
